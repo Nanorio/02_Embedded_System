@@ -1,0 +1,27 @@
+[2025-11-16 19:10:02] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C48513C810
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc89c52\LED闪烁\ledshanshuo.hex
+*FILETIME* : 2023年07月25日, 11:17:30
+*FILESIZE* : 178 (0x0000B2)
+*CODESIZE* : 50 (0x000032)
+*CHECKSUM* : 0x0000179F
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-16 19:10:07] : End
+--------------------------------------------------
+[2025-11-16 19:10:15] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc89c52\LED闪烁\ledshanshuo.hex
+*FILETIME* : 2023年07月25日, 11:17:30
+*FILESIZE* : 178 (0x0000B2)
+*CODESIZE* : 50 (0x000032)
+*CHECKSUM* : 0x0000179F
+*ISPMODE* : 1
+*ISPRESULT* : 5
+--------------------
+[2025-11-16 19:10:22] : End
+--------------------------------------------------

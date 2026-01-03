@@ -1,0 +1,467 @@
+[2025-11-20 22:48:15] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*ISPMODE* : 1
+*ISPRESULT* : 3
+--------------------
+[2025-11-20 22:48:34] : End
+--------------------------------------------------
+[2025-11-20 22:48:46] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*ISPMODE* : 1
+*ISPRESULT* : 5
+--------------------
+[2025-11-20 22:48:49] : End
+--------------------------------------------------
+[2025-11-20 22:49:06] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*ISPMODE* : 1
+*ISPRESULT* : 5
+--------------------
+[2025-11-20 22:49:10] : End
+--------------------------------------------------
+[2025-11-20 22:49:50] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 22:48:07
+*FILESIZE* : 877 (0x00036D)
+*CODESIZE* : 289 (0x000121)
+*CHECKSUM* : 0x00009DE2
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 22:49:55] : End
+--------------------------------------------------
+[2025-11-20 22:51:20] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 22:51:19
+*FILESIZE* : 877 (0x00036D)
+*CODESIZE* : 289 (0x000121)
+*CHECKSUM* : 0x00009DF2
+*ISPMODE* : 2
+*ISPRESULT* : 3
+--------------------
+[2025-11-20 22:51:28] : End
+--------------------------------------------------
+[2025-11-20 22:51:29] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 22:51:19
+*FILESIZE* : 877 (0x00036D)
+*CODESIZE* : 289 (0x000121)
+*CHECKSUM* : 0x00009DF2
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 22:51:55] : End
+--------------------------------------------------
+[2025-11-20 23:02:41] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:02:39
+*FILESIZE* : 943 (0x0003AF)
+*CODESIZE* : 309 (0x000135)
+*CHECKSUM* : 0x0000A85A
+*ISPMODE* : 2
+*ISPRESULT* : 3
+--------------------
+[2025-11-20 23:02:58] : End
+--------------------------------------------------
+[2025-11-20 23:03:03] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:02:39
+*FILESIZE* : 943 (0x0003AF)
+*CODESIZE* : 309 (0x000135)
+*CHECKSUM* : 0x0000A85A
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:03:07] : End
+--------------------------------------------------
+[2025-11-20 23:04:29] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:04:29
+*FILESIZE* : 970 (0x0003CA)
+*CODESIZE* : 316 (0x00013C)
+*CHECKSUM* : 0x0000AB5C
+*ISPMODE* : 2
+*ISPRESULT* : 3
+--------------------
+[2025-11-20 23:04:35] : End
+--------------------------------------------------
+[2025-11-20 23:04:41] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:04:29
+*FILESIZE* : 970 (0x0003CA)
+*CODESIZE* : 316 (0x00013C)
+*CHECKSUM* : 0x0000AB5C
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:04:44] : End
+--------------------------------------------------
+[2025-11-20 23:09:44] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:04:29
+*FILESIZE* : 970 (0x0003CA)
+*CODESIZE* : 316 (0x00013C)
+*CHECKSUM* : 0x0000AB5C
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:09:47] : End
+--------------------------------------------------
+[2025-11-20 23:10:20] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:04:29
+*FILESIZE* : 970 (0x0003CA)
+*CODESIZE* : 316 (0x00013C)
+*CHECKSUM* : 0x0000AB5C
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:10:23] : End
+--------------------------------------------------
+[2025-11-20 23:10:32] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:04:29
+*FILESIZE* : 970 (0x0003CA)
+*CODESIZE* : 316 (0x00013C)
+*CHECKSUM* : 0x0000AB5C
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:10:34] : End
+--------------------------------------------------
+[2025-11-20 23:11:44] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:11:43
+*FILESIZE* : 972 (0x0003CC)
+*CODESIZE* : 317 (0x00013D)
+*CHECKSUM* : 0x0000ADBB
+*ISPMODE* : 2
+*ISPRESULT* : 3
+--------------------
+[2025-11-20 23:11:47] : End
+--------------------------------------------------
+[2025-11-20 23:11:48] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:11:43
+*FILESIZE* : 972 (0x0003CC)
+*CODESIZE* : 317 (0x00013D)
+*CHECKSUM* : 0x0000ADBB
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:11:51] : End
+--------------------------------------------------
+[2025-11-20 23:14:02] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:14:01
+*FILESIZE* : 970 (0x0003CA)
+*CODESIZE* : 316 (0x00013C)
+*CHECKSUM* : 0x0000AD39
+*ISPMODE* : 2
+*ISPRESULT* : 3
+--------------------
+[2025-11-20 23:14:06] : End
+--------------------------------------------------
+[2025-11-20 23:14:13] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:14:01
+*FILESIZE* : 970 (0x0003CA)
+*CODESIZE* : 316 (0x00013C)
+*CHECKSUM* : 0x0000AD39
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:14:17] : End
+--------------------------------------------------
+[2025-11-20 23:14:48] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:14:47
+*FILESIZE* : 972 (0x0003CC)
+*CODESIZE* : 317 (0x00013D)
+*CHECKSUM* : 0x0000ADBB
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:14:54] : End
+--------------------------------------------------
+[2025-11-20 23:15:33] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:15:32
+*FILESIZE* : 972 (0x0003CC)
+*CODESIZE* : 317 (0x00013D)
+*CHECKSUM* : 0x0000AD3B
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:15:38] : End
+--------------------------------------------------
+[2025-11-20 23:16:00] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:15:59
+*FILESIZE* : 972 (0x0003CC)
+*CODESIZE* : 317 (0x00013D)
+*CHECKSUM* : 0x0000AD84
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:16:04] : End
+--------------------------------------------------
+[2025-11-20 23:16:21] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:16:20
+*FILESIZE* : 972 (0x0003CC)
+*CODESIZE* : 317 (0x00013D)
+*CHECKSUM* : 0x0000ADBA
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:16:26] : End
+--------------------------------------------------
+[2025-11-20 23:16:42] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:16:41
+*FILESIZE* : 972 (0x0003CC)
+*CODESIZE* : 317 (0x00013D)
+*CHECKSUM* : 0x0000ADB6
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:16:46] : End
+--------------------------------------------------
+[2025-11-20 23:17:03] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:17:02
+*FILESIZE* : 970 (0x0003CA)
+*CODESIZE* : 316 (0x00013C)
+*CHECKSUM* : 0x0000AD39
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:17:06] : End
+--------------------------------------------------
+[2025-11-20 23:17:23] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:17:21
+*FILESIZE* : 972 (0x0003CC)
+*CODESIZE* : 317 (0x00013D)
+*CHECKSUM* : 0x0000ACCC
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:17:24] : End
+--------------------------------------------------
+[2025-11-20 23:19:54] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:19:53
+*FILESIZE* : 986 (0x0003DA)
+*CODESIZE* : 324 (0x000144)
+*CHECKSUM* : 0x0000AE86
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:21:05] : End
+--------------------------------------------------
+[2025-11-20 23:21:06] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:20:19
+*FILESIZE* : 986 (0x0003DA)
+*CODESIZE* : 324 (0x000144)
+*CHECKSUM* : 0x0000AE8C
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:21:11] : End
+--------------------------------------------------
+[2025-11-20 23:23:39] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:23:38
+*FILESIZE* : 986 (0x0003DA)
+*CODESIZE* : 324 (0x000144)
+*CHECKSUM* : 0x0000AE96
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:24:05] : End
+--------------------------------------------------
+[2025-11-20 23:24:07] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:23:49
+*FILESIZE* : 986 (0x0003DA)
+*CODESIZE* : 324 (0x000144)
+*CHECKSUM* : 0x0000AEC6
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:24:11] : End
+--------------------------------------------------
+[2025-11-20 23:25:08] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:25:07
+*FILESIZE* : 976 (0x0003D0)
+*CODESIZE* : 319 (0x00013F)
+*CHECKSUM* : 0x0000ADE3
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:25:13] : End
+--------------------------------------------------
+[2025-11-20 23:45:16] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:45:15
+*FILESIZE* : 986 (0x0003DA)
+*CODESIZE* : 324 (0x000144)
+*CHECKSUM* : 0x0000AEBC
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:45:20] : End
+--------------------------------------------------
+[2025-11-20 23:45:58] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:45:57
+*FILESIZE* : 988 (0x0003DC)
+*CODESIZE* : 325 (0x000145)
+*CHECKSUM* : 0x0000AEBF
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:46:00] : End
+--------------------------------------------------
+[2025-11-20 23:46:39] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:46:38
+*FILESIZE* : 988 (0x0003DC)
+*CODESIZE* : 325 (0x000145)
+*CHECKSUM* : 0x0000AF3E
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:46:45] : End
+--------------------------------------------------
+[2025-11-20 23:49:34] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:49:33
+*FILESIZE* : 992 (0x0003E0)
+*CODESIZE* : 327 (0x000147)
+*CHECKSUM* : 0x0000AF06
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:49:55] : End
+--------------------------------------------------
+[2025-11-20 23:49:56] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:49:42
+*FILESIZE* : 992 (0x0003E0)
+*CODESIZE* : 327 (0x000147)
+*CHECKSUM* : 0x0000AF06
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:50:01] : End
+--------------------------------------------------
+[2025-11-20 23:52:13] : Begin
+--------------------
+*MCUTYPE* : STC8G1K08A-8PIN
+*MCUID* : F794C4161F11C7
+*FILENAME* : D:\02_Embedded_System\Keil\C51\stc8g1k08a\00_Template\Objects\project.hex
+*FILETIME* : 2025年11月20日, 23:52:12
+*FILESIZE* : 986 (0x0003DA)
+*CODESIZE* : 324 (0x000144)
+*CHECKSUM* : 0x0000AD84
+*ISPMODE* : 2
+*ISPRESULT* : 0
+--------------------
+[2025-11-20 23:52:22] : End
+--------------------------------------------------
